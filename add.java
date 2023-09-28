@@ -5,5 +5,6 @@ class Main{
         int b=20;
         System.out.print(a+b);
         int c=a+b;
+        System.out.println(c);
     }
 }
